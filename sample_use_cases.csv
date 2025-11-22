@@ -1,0 +1,9 @@
+Use Case,Business Value (1-5),Technical Feasibility (1-5),Data Readiness (1-5),Change Impact (1-5),Risk (1-5),Owner,Notes
+Intelligent document triage for claims,5,3,3,4,3,Operations,"High cost savings; requires integration with core systems."
+Member services AI copilot,4,4,4,3,3,Customer Service,"GenAI-based assistant for frontline staff; adoption is key."
+Provider data cleansing & matching,4,3,2,2,2,Data Management,"Improves accuracy of provider directories and downstream analytics."
+Internal knowledge retrieval assistant,3,5,4,2,2,Enterprise,"RAG-based Q&A over policies, SOPs, and training materials."
+Fraud & anomaly detection on claims,5,3,3,3,4,Risk & Compliance,"ML-based scoring; high potential impact but higher risk."
+Prior authorization intake automation,5,3,2,4,4,Clinical Operations,"Automates intake and routing; significant process redesign required."
+AI-powered routing of member emails,3,4,4,2,2,Customer Service,"Classifies and routes inbound messages for faster handling."
+GenAI-assisted policy drafting,3,4,3,2,3,Legal/Policy,"Assists in drafting and reviewing internal policies."
