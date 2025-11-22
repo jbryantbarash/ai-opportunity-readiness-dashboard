@@ -147,4 +147,7 @@ Your browser will open to:
 
 http://localhost:8501
 
+<img width="1383" height="695" alt="Screenshot 2025-11-22 at 3 25 58 PM" src="https://github.com/user-attachments/assets/28837ad3-4c86-4ad2-a2fa-af1e877db159" />
+
+
 
